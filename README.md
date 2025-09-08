@@ -6,7 +6,8 @@ Heart Failure Prediction Dataset : https://www.kaggle.com/datasets/fedesoriano/h
 Heart Failure
 1: means there is a heart failure 
 0: means there is no heart failure
-**Features: **
+
+**Features:**
 1. Age
 2. Chest Pain Type
 3. Cholesterol
