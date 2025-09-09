@@ -1,14 +1,14 @@
 # CS-4680-Homework-1
 
-Heart Failure Prediction Dataset : https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
+Heart Disease Prediction Dataset : https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 
 **Target Variable:** 
 <br>
-Heart Failure
+Heart Disease
 <br>
-1: means there is a heart failure 
+1: means there is a heart disease
 <br>
-0: means there is no heart failure
+0: means there is no heart disease
 
 **Features:** 
 1. Age
