@@ -10,7 +10,7 @@ Heart Disease
 <br>
 0: means there is no heart disease
 
-**Features:** 
+**Features that will influence target variable:** 
 1. Age
 2. Chest Pain Typ
 3. Cholesterol
